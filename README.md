@@ -1,4 +1,5 @@
 # Myntra_clone
+
 This is my first repo
 <br>
-Author - Deepjyoti Sonowal
+Author - Deepjyoti Sonowal(Developer)
